@@ -104,11 +104,20 @@ html{
 /*.....About.....*/
 #about{
     display: flex;
+    background-color: rgba(105, 52, 52, 0.5);
     flex-direction: column;
     box-sizing: border-box;
     padding: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
+#skills{
+    margin-left: 20px;
+}
+#skills ul li{
+    font-size:20px ;
+    font-weight: bold;
+}
+
 #pic{
     display: flex;
 }
@@ -159,6 +168,7 @@ html{
 /* services */
 #Services{
     display: flex;
+    background-color: rgba(0,0, 0, 0.5);
     flex-direction: column;
     padding: 20px;
 }
