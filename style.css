@@ -104,7 +104,7 @@ html{
 /*.....About.....*/
 #about{
     display: flex;
-    background-color: rgba(105, 52, 52, 0.5);
+    background-color: rgba(19, 13, 13, 0.5);
     flex-direction: column;
     box-sizing: border-box;
     padding: 20px;
